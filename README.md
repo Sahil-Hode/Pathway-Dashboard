@@ -6,7 +6,7 @@ This is a responsive React-based dashboard UI for displaying personalized learni
 
 ## 🔧 Tech Stack
 
-- ⚛️ vite + React
+- ⚛️ vite + React 
 - 🎨 Tailwind CSS
 - 🧠 Lucide Icons (`lucide-react`)
 
